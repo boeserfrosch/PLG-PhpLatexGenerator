@@ -1,2 +1,2 @@
 # PLG-PhpLatexGenerator
-Genrate an Latexfile from Latex-Templatefile
+Generate an Latexfile from Latex-Templatefile
