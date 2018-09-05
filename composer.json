@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "psr-4": {"PLG\\": "./"}
+    },
+    "require": {
+        "twig/twig": "^2.0"
+    }
+}
